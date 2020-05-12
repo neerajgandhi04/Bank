@@ -1,0 +1,49 @@
+#options{
+  font-size: 20px;
+  padding-top: 20px;
+  margin-inline-start: 30px;
+  padding-left: 80px;
+  color:darkorange;
+}
+
+#optionList{
+  
+  padding-top: 100px;
+  background-color: white;
+  
+}
+
+#bankLogo{
+  color: darkorange;
+  font-size: 20px;
+  padding-left:20px;
+}
+
+#cCaption{
+  font-size: 30px;
+  color:darkorange;
+}
+
+#images{
+  margin: 10px;
+  padding-top: 60px;
+  background-color:antiquewhite;
+  padding-bottom: 60px;
+}
+
+#menubody{
+  color:gray;
+}
+
+
+.Form h2{
+   font-size: 40px;
+  color: darkorange;
+  padding-left: 500px;
+}
+
+.Form form{
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
